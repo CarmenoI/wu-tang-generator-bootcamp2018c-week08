@@ -1,0 +1,23 @@
+#container{
+  background-color: black;
+  color: white;
+  width: 50%;
+  height: 500px;
+  border: 1px solid black;
+  text-align: center;
+}
+.choice{
+  border-top: 1px solid white;
+  width: 100%;
+  height: 30px;
+  display: block;
+}
+#img{
+  border-top: 1px solid white;
+  width: 100%;
+  height: 300px;
+}
+#first{
+  width: 45%;
+  height: 30px;
+}
